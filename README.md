@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ansh Bhardwaj</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+<img src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif" align="right">
+
 - 🌱 I’m currently learning **Numpy and Pandas**
 
 - 👯 I’m looking to collaborate on **SQL Server,Python and Power BI**
